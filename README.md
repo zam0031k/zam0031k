@@ -8,11 +8,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/main/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/zam0031k/zam0031k/main/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/output/github-snake.svg">
+  <img alt="snake contribution graph" 
+    src="https://raw.githubusercontent.com/zam0031k/zam0031k/output/github-snake.svg">
 </picture>
 
 ###
