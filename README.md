@@ -7,9 +7,12 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zam0031k/zam0031k/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/zam0031k/zam0031k/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/zam0031k/zam0031k/main/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -42,7 +45,7 @@
 
 ###
 
-<h4 align="left">- Herramientas y Tecnología</h4>
+<h4 align="left">- Herramientas y Tecnologías</h4>
 
 ###
 
